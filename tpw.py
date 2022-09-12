@@ -1,6 +1,5 @@
 import hashlib
 t1 = input("Bitte was eingeben: ")
-#t1 = "2021"
 s1 = "#T"
 # encode it to bytes using UTF-8 encoding
 message = t1.encode()
